@@ -18,3 +18,8 @@ Our goal is to make it easy and efficient to book artists around the world. Belo
 
 <strong>IV.	Evaluation</strong><br/><br/>
 Throughout the project, bi-weekly assessments will be submitted including clear indicators on progress for the objectives and goals we set above. Based on the schedule that is provided to us, we will be able to effectively and thoroughly maintain strict progress guidelines. I, Blake Henderson will be submitting these reports on Sep 11, Sep 25, Oct 9, Oct 23, Nov 6, Nov 20, and Dec 4. These reports will be based on the template given to us. 
+
+Demo Username and Password
+
+Username: BlakeHenderson
+Password: Password
